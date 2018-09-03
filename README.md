@@ -1,6 +1,6 @@
 
 
-(NOT UPLOADED YET)
+(NOT UPLOADED YET) (SOME BASIC FILES ARE MISSING)
 
 This is Managment bot for telegram. You can find him in telegram as @LoopedInfinity (Loop).
 
@@ -22,4 +22,8 @@ from modules.newmodule import NewFunction
 ```
 
 You can create the handler like the other ones in the file.
-  
+ 
+ 
+The configuration proccess is simplified as much as possible.
+
+Open the YOUNEEDTHIS file and read about the config process
