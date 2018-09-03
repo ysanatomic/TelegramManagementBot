@@ -24,6 +24,6 @@ from modules.newmodule import NewFunction
 You can create the handler like the other ones in the file.
  
  
-The configuration proccess is simplified as much as possible.
+The configuration process is simplified as much as possible.
 
 Open the YOUNEEDTHIS file and read about the config process
