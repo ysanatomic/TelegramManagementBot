@@ -1,5 +1,5 @@
 
-This is Managment bot for telegram. You can find him in telegram as @LoopedInfinity (Loop).
+This is Management bot for telegram. You can find him in telegram as @LoopedInfinity (Loop).
 
 The configuration is easy. Just look at the basic __main.py__ file.
 
