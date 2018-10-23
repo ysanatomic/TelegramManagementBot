@@ -26,4 +26,8 @@ You can create the handler like the other ones in the file.
  
 The configuration process is simplified as much as possible.
 
-Open the YOUNEEDTHIS file and read about the config process
+You need to add your api token to that line:
+
+```
+API = "HERE YOUR TOKEN" # API Token
+```
