@@ -1,3 +1,7 @@
+## This Code is old and at times awful.
+## Wouldn't recommend actually trying to use the bot.
+## Oh the official bot is also offline.
+
 
 This is Management bot for telegram. You can find him in telegram as @LoopedInfinity (Loop).
 
